@@ -1,5 +1,3 @@
-# exercicios-trybe
-Portifólio de exercícios Trybe.
 # Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Cinthya](https://www.linkedin.com/in/cinthya-morales/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
@@ -8,17 +6,18 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 1: Introdução - Unix & Shell
-
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+##### Bloco 1: Introdução - Unix & Shell 
+- [X] 1-3: _Fundamentos do desenvolvimento Web_
+- [X] 1-3: _Introdução - Unix & Shell_  
+- [X] 1-3: _Unix & Bash- Part 1_
+- [X] 1-4: _Unix & Bash- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
+- [X] 2-1: _O que é e para que serve?_
+- [X] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
@@ -86,7 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end 
 
 ##### Bloco 11: Introdução - React
 
