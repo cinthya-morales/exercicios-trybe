@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(155, 247, 216);
+}
+h2, h3{
+    color: rgb(29, 85, 53);
+}
+#header {
+    border: 2px solid red;
+    text-align:center;
+    font-style: italic;
+    color: rgb(29, 85, 53);
+}
+#nav {
+    border: 2px solid blue;
+    background-color: rgb(229, 245, 205);
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    
+}
+ul {
+    list-style: none;
+    color: #223f24;
+    margin: 0 auto;
+    border: 0; 
+    display: inline-flex;
+    width: 50%;
+}
+ul li { 
+    float: left;
+    text-color: rgb(75, 218, 9);
+    outline: 0 none;
+    width: 100%;
+}
+#main {
+    border: 2px solid chartreuse;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#footer {
+    border: 2px solid rgb(235, 67, 95);
+    padding: 0%;
+    text-align: center;
+}
+img {
+    width: 500px;
+    margin-left: 2%
+    
+}
