@@ -1,46 +1,48 @@
-body{
+body {
     background-color: rgb(155, 247, 216);
     margin: 0;
     box-sizing: 5000px;
 }
-h2, h3{
-    color: rgb(29, 85, 53);
-}
-#header {
-    border: 2px solid red;
-    text-align:center;
-    font-style: italic;
+h2, h3 {
     color: rgb(29, 85, 53);
 }
 #nav {
     border: 2px solid blue;
-    background-color: rgb(46, 146, 54);
+    background-color: rgb(41, 165, 155);
     overflow: hidden;
     width: 100%;
 }
 #nav a{
-    color: blanchedalmond;
+    color: rgb(219, 233, 230);
     float: left;
     display: block;
     padding: 14px 16px;
 }
 #nav a:hover{
     transition: 0.5s;
-    background-color: white;
-    color: green;
-    
+    background-color: rgb(220, 240, 235);
+    color: rgb(18, 138, 118);
+}
+#header {
+    margin-bottom: auto;
+    border: 2px solid red;
+    text-align:center;
+    font-style: italic;
+    color: rgb(29, 85, 53);
+}
+#aside {
+    border: 2px solid black;
+    margin-bottom: 80%;
+    width: 40%; 
+    display: inline-flex;
+    float: right;
 }
 #main {
     border: 2px solid chartreuse;
     margin-left: 1%;
     margin-right: 40%;
 }
-#aside {
-    margin-top: 40%;
-   width: 15%; 
-   height: 100%; 
-   float: right; 
-}
+
 #footer {
     border: 2px solid rgb(235, 67, 95);
     padding: 0%;
