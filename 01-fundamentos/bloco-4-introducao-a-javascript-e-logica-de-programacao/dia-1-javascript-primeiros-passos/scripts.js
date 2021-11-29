@@ -17,7 +17,8 @@ console.log(resultado);
 var resultado = a % b;
 console.log(resultado);
 
-const c = 10;
-const d = 20;
-If(c > d)
-console.log(c);
+let c = 10;
+let d = 20;
+if (c > d) {
+    console.log(c);
+} else { console.log(d); }
