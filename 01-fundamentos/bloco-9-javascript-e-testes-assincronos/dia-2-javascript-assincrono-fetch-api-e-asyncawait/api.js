@@ -13,8 +13,9 @@ const getCripto = async () => {
   const coins = await fetchCripto();
 
   const list = document.getElementById('list');
-
-  coins.forEach((coin) => {
+  
+  coins.filter((_, index) => index < 10)
+  .forEach((coin) => {
     const newLi = document.createElement('li');
     const price = Number(coin.priceUsd);
 
